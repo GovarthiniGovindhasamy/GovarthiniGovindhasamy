@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GovarthiniGovindhasamy
+- 👋 Hi, I’m @Govarthini
 - 👀 I’m interested in App development
 - 🌱 I’m currently learning react-native
-- 💞️ I’m looking to collaborate on Mobile projectss
+- 💞️ I’m looking to collaborate on Mobile projects
 - 📫 reach me @ govarthinig9@gmail.com
 <!---
 GovarthiniGovindhasamy/GovarthiniGovindhasamy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
